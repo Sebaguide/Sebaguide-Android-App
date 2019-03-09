@@ -1,0 +1,12 @@
+{
+  "latestVersion": "4",
+  "latestVersionCode": "4",
+  "url": "https://raw.githubusercontent.com/rajitdeb/Sebaguide/master/release.json",
+  "releaseNotes": [
+    "- Updated UI",
+    "- Added Features",
+    "- Improved Performance",
+    "- Faster Downloads",
+    "- Major and Minor Bug Fixes"
+  ]
+}
