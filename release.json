@@ -1,0 +1,8 @@
+{
+  "latestVersion": "7",
+  "latestVersionCode": "7",
+  "url": "https://raw.githubusercontent.com/rajitdeb/Sebaguide/master/release.json",
+  "releaseNotes": [
+    "- Major Bug Fixes for all the Android Versions."
+  ]
+}
