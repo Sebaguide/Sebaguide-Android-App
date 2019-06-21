@@ -1,6 +1,6 @@
 # Sebaguide App Release Notes
-# Latest Version: 7.0
-# Version Code: 7
+# Latest Version: 8.0
+# Version Code: 8
 
 What's new in this update:
-- Major Bug Fixes For All The Android Versions.
+- Includes Minor Bug Fixes.
